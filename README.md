@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Cyber Security Internship at Clifford Chance**
+- 🔭 I’m currently working on **Research Intern(Cyber Security) at SISTMR AUSTRALIA**
 
 - 🌱 I’m currently learning **CSS , Java Script , AWS , Azure , GCP , C , C++ , Python**
 
